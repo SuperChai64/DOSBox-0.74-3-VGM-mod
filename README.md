@@ -26,3 +26,9 @@ To log PC speaker, set capturespeaker to "true" in dosbox-0.74-3.conf
 - implement SAA1099 logging
 - implement SN76496 logging
 - test VGM logging
+
+## Contributing
+
+DOSBox 0.74-3 VGM mod is currently in early stages, so contributing and improving is strongly appreciated.
+
+Non-AI contributions are strongly preferred. Do not generate a large amount of code via AI alone; it will not be accepted. If AI is used in your commit(s), please disclose it.
