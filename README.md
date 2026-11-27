@@ -3,10 +3,10 @@
 DOSBox 0.74-3, modded to log VGMs.
 
 Based on:
-- DOSBox 0.74-3
+- [DOSBox 0.74-3](https://www.dosbox.com/)
 - [DOSBox-VGM by NewRisingSun (originally based on DOSBox SVN r4000)](https://vgmrips.net/forum/viewtopic.php?t=2585)
 
-The emulator is currently a work in progress.
+The emulator is currently WIP.
 
 ## How to use
 
@@ -16,7 +16,7 @@ To log Sound Blaster DAC, set capturepcm to "true" in dosbox-0.74-3.conf
 
 To log PC speaker, set capturespeaker to "true" in dosbox-0.74-3.conf
 
-## Supported Chips
+## Supported chips
 
 - YM3812
 - YMF262
