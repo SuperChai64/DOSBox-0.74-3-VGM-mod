@@ -6,6 +6,8 @@ Based on:
 - DOSBox 0.74-3
 - [DOSBox-VGM by NewRisingSun (originally based on DOSBox SVN r4000)](https://vgmrips.net/forum/viewtopic.php?t=2585)
 
+The emulator is currently a work in progress.
+
 ## How to use
 
 To log a VGM, press Ctrl + Alt + F7
