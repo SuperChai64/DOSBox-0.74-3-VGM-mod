@@ -24,11 +24,11 @@ To log PC speaker, set capturespeaker to "true" in dosbox-0.74-3.conf
 ## TODO
 
 - implement SAA1099 logging
-- implement SN76496 logging
+- implement SN76496 + Tandy SL/TL/RL DAC (via YM2612) logging
 - test VGM logging
 
 ## Contributing
 
-DOSBox 0.74-3 VGM mod is currently in early stages, so contributing and improving is strongly appreciated.
+DOSBox 0.74-3 VGM mod is currently in early stages, so contributors are strongly appreciated.
 
-Non-AI contributions are strongly preferred. Do not generate a large amount of code via AI alone; it will not be accepted. If AI is used in your commit(s), please disclose it.
+The emulator currently has no AI-generated code. Non-AI contributions are strongly preferred. Do not generate a large amount of code via AI alone; it will not be accepted. If AI is used in your commit(s), please disclose it.
