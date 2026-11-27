@@ -36,6 +36,6 @@ DOSBox 0.74-3 VGM mod is currently in early stages, so contributors are strongly
 
 The emulator currently has no AI-generated code.
 
-I strongly prefer contributors who fork my emulator and open pull requests to _not_ submit AI-generated code. However, if any AI-generated code is submitted:
+To those who fork the repository and open pull requests, it is recommended to _not_ submit AI-generated code. However, if any AI-generated code is submitted:
 - Please disclose your AI usage if you used AI in your commit(s) at all.
 - Do not submit code that is mostly or entirely AI-generated. It will be rejected.
