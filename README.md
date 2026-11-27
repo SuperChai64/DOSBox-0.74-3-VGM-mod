@@ -6,7 +6,7 @@ Based on:
 - [DOSBox 0.74-3](https://www.dosbox.com/)
 - [DOSBox-VGM by NewRisingSun (originally based on DOSBox SVN r4000)](https://vgmrips.net/forum/viewtopic.php?t=2585)
 
-The emulator is currently WIP.
+The emulator is currently WIP and not yet recommended for general usage.
 
 ## How to use
 
@@ -26,11 +26,16 @@ To log PC speaker, set capturespeaker to "true" in dosbox-0.74-3.conf
 ## TODO
 
 - implement SAA1099 logging
-- implement SN76496 + Tandy SL/TL/RL DAC (via YM2612) logging
+- implement SN76496 logging
+- implement Tandy SL/TL/RL DAC (via YM2612) logging (this will only be implemented once SN76496 logging is implemented)
 - test VGM logging
 
 ## Contributing
 
 DOSBox 0.74-3 VGM mod is currently in early stages, so contributors are strongly appreciated.
 
-The emulator currently has no AI-generated code. Non-AI contributions are strongly preferred. Do not generate a large amount of code via AI alone; it will not be accepted. If AI is used in your commit(s), please disclose it.
+The emulator currently has no AI-generated code.
+
+I strongly prefer contributors who fork my emulator and open pull requests to _not_ submit AI-generated code. However, if any AI-generated code is submitted:
+- Please disclose your AI usage if you used AI in your commit(s) at all.
+- Do not submit code that is mostly or entirely AI-generated. It will be rejected.
